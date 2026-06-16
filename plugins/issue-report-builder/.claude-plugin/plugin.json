@@ -2,13 +2,7 @@
   "name": "issue-report-builder",
   "version": "1.0.0",
   "description": "研发反馈单生成器，把随口描述的问题/需求整理成规范反馈单（Markdown + assets）",
-  "owner": {
+  "author": {
     "name": "wangjiuchun"
-  },
-  "skills": [
-    {
-      "name": "issue-report-builder",
-      "path": "skills/issue-report-builder.md"
-    }
-  ]
+  }
 }
