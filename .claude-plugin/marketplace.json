@@ -1,0 +1,17 @@
+{
+  "name": "cc-plugins-marketplace",
+  "owner": {
+    "name": "wangjiuchun"
+  },
+  "metadata": {
+    "description": "wangjiuchun 个人维护的 Claude Code Skills 收藏与备份",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "issue-report-builder",
+      "source": "./plugins/issue-report-builder",
+      "description": "研发反馈单生成器，把随口描述的问题/需求整理成规范反馈单"
+    }
+  ]
+}

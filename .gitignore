@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# 环境变量 / 密钥（保留 .env.example 模板，忽略真实配置）
+.env
+**/.env
+!**/.env.example
+
+# ppt-master 运行时生成的项目产物（不纳入备份）
+plugins/ppt-master/projects/*
+!plugins/ppt-master/projects/.gitkeep
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.venv/
+venv/
