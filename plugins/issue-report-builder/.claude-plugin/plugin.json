@@ -6,6 +6,9 @@
     "name": "wangjiuchun"
   },
   "skills": [
-    "skills/issue-report-builder.md"
+    {
+      "name": "issue-report-builder",
+      "path": "skills/issue-report-builder.md"
+    }
   ]
 }
